@@ -8,6 +8,6 @@ In order to run our program, all .java files must be compiled. You can either im
 
 In the pdf report (Greek only!) you can find an extensive description of the implemented classes and their methods. 
 
-##Colaborator
+## Colaborator
 
 [@Fotios Panos](https://github.com/fotispanos)
